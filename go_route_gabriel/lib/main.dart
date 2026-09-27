@@ -10,7 +10,7 @@ void main() {
 
  
 
-/// Home screen 
+/// Home screen //
 
 class HomeScreen extends StatelessWidget { 
 
@@ -132,7 +132,7 @@ class DetailsScreen extends StatelessWidget {
 
     ); 
 
-  } 
+  } // DetailsScreen
 
 } 
 
