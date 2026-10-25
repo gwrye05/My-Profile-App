@@ -1,0 +1,15 @@
+[project]
+name = "genai-code"
+version = "0.1.0"
+description = "Vehicle Manufacturer FastAPI"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "pydantic",
+]
+
+[tool.uv]
+package = false
+
+
