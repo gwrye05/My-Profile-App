@@ -6,7 +6,6 @@ import '../widgets/add_project_dialog.dart';
 // Example for CategoryManagementScreen
 class ProjectManagementScreen extends StatelessWidget {
   const ProjectManagementScreen({super.key});
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
